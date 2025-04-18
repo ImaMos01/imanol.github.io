@@ -18,6 +18,20 @@ import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
+import CSharp from "@/icons/CSharp.astro";
+import SQLServer from "@/icons/SQLServer.astro";
+import Python from "@/icons/Python.astro";
+import AWS from "@/icons/AWS.astro";
+import Docker from "@/icons/Docker.astro";
+import PHP from "@/icons/PHP.astro";
+import Blazor from "@/icons/Blazor.astro";
+import ASPNET from "@/icons/ASPNET.astro";
+import Bootstrap from "@/icons/Bootstrap.astro";
+import JQuery from "@/icons/JQuery.astro";
+
+
+
+
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -37,14 +51,32 @@ const SKILLS_ICONS: Record<string, any> = {
 	Flutter,
 	Figma,
 	Gitlab,
+	CSharp,
+	SQLServer,
+	Python,
+	AWS,
+	Docker,
+	PHP,
+	Blazor,
+	ASPNET,
+	Bootstrap,
+	JQuery
+};
+
+const namesPrograms: {[key: string]:string} = {
+	"C#": "CSharp",
+	"Next.js" : "Next",
+	"SQL Server" : "SQLServer",
+	"ASP.NET":"ASPNET"
 };
 ---
 
-<Section className={Astro.props.className} title="Skills">
+<Section className={Astro.props.className} title="Habilidades">
 	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
 		{
 			skills.map(({ name }) => {
-				const iconName = name === "Next.js" ? "Next" : name;
+				const iconName = namesPrograms[name] ? namesPrograms[name] : name;
+
 				const Icon = SKILLS_ICONS[iconName];
 
 				return (

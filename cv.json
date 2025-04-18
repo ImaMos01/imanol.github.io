@@ -1,106 +1,84 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Imanol Moscoso",
+    "label": "Desarrollador Junior Full Stack",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "email": "imoscosoa@unsa.edu.pe",
+    "phone": "+51 980824772",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "Bachiller en Ciencia de la Computación enfocado en el desarrollo de software. Actualmente busco oportunidades para seguir desarrollando mis habilidades y aportar ideas con trabajo de calidad",
+    "theme": "red",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Arequipa",
+      "countryCode": "PE",
+      "region": "Perú"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ImanolMoscoso",
+        "url": "https://www.linkedin.com/in/imanolmos01/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ImaMos01",
+        "url": "https://github.com/ImaMos01"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "SOLUCIONES EXIC EIRL",
+      "position": "Desarrollador Full-Stack en ASP.NET",
+      "location_type": "Presencial",
+      "location": "Arequipa, Perú",
+      "url": "https://www.linkedin.com/company/soluciones-exic-eirl/",
+      "startDate": "2024-05-24",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Participación en la migración de una aplicación de escritorio desarrollada en Visual Basic 6.0 hacia un entorno web utilizando ASP.NET Core MVC",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Colaboracion en el análisis del código de Visual Basic 6.0 y los procedimientos almacenados de SQL Server.",
+        "Implementación de interfaces de usuario con Blazor, Bootstrap y Jquery.",
+        "Migración de las funcionalidades de la aplicación de escritorio a la plataforma web, manteniendo la lógica de negocio existente.",
+        "Identificación de posibles mejoras durante el proceso de migración y proporcionar soluciones viables."
       ],
       "skills": [
-        "React",
-        "Tailwind",
+        "ASP.NET",
+        "SQL Server",
+        "JQuery",
+        "Bootstrap",
+        "Blazor",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "FEMACO SRL",
+      "position": "Desarrollador Web Full-Stack",
+      "location_type": "Presencial",
+      "location": "Arequipa, Perú",
+      "url": "https://pe.linkedin.com/company/femaco-srl",
+      "startDate": "2022-01-03",
+      "endDate": "2022-04-04",
+      "summary": "Desarrollo de un sitio web básico para la generación de reportes de mantenimiento de vehículos, utilizando HTML, CSS, JavaScript, PHP y MySQL. Implementación y despliegue en entorno cPanel.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+        "Participación activa en el desarrollo funcional y técnico del proyecto, tanto en el frontend como el backend.",
+        "Colaboración en el diseño de la página web basada en PHP, JavaScript y HTML/CSS, asegurando una transición estructurada y eficiente.",
+        "Participación en reuniones de seguimiento del proyecto, aportando avances, bloqueos y sugerencias técnicas."
       ],
       "skills": [
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "MySQL"
       ]
     }
   ],
@@ -119,64 +97,47 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Universidad Nacional de San Agustín de Arequipa",
+      "url": "https://www.unsa.edu.pe/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2019-04-01",
+      "endDate": "2024-04-01",
+      "score": "15",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "Algoritmos y Estructura de Datos", 
+        "Base de Datos", 
+        "Computación Gráfica", 
+        "Ingeniería de Software", 
+        "Inglés", 
+        "Inteligencia Artificial", 
+        "Computación en la Nube"
       ]
     },
     {
-      "institution": "Tech Institute",
+      "institution": "Centro cultural Peruano Norteamericano",
       "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "area": "Inglés básico",
+      "studyType": "Básico",
+      "startDate": "2016-01-04",
+      "endDate": "2017-06-01",
+      "score": "16",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Básico"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "AWS Academy Cloud Security Foundations",
+      "date": "2025-03-01",
+      "issuer": "AWS Academy Graduate",
+      "url": "https://www.credly.com/badges/253823e4-85d2-4549-a4d8-5f52179be595/linked_in_profile"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
+      "name": "C#",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
@@ -185,7 +146,7 @@
       ]
     },
     {
-      "name": "HTML",
+      "name": "ASP.NET",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -193,7 +154,7 @@
       ]
     },
     {
-      "name": "CSS",
+      "name": "Blazor",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -212,16 +173,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "Intermediate",
       "keywords": [
@@ -229,6 +180,46 @@
         "Frontend",
         "Backend",
         "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "JQuery",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
@@ -242,6 +233,26 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Basic",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
       "name": "MySQL",
       "level": "Intermediate",
       "keywords": [
@@ -249,6 +260,17 @@
         "SQL",
         "Data Storage",
         "Backend"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
@@ -271,23 +293,30 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "AWS",
       "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
+      "name": "Docker",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "JavaScript Library",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Basic",
+      "keywords": [
+        "Design",
         "UI"
       ]
     }
@@ -295,11 +324,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Basic"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
@@ -307,7 +336,9 @@
       "name": "Technology",
       "keywords": [
         "AI",
-        "Blockchain"
+        "Blockchain",
+        "Cloud Computing",
+        "DevOps"
       ]
     }
   ],
@@ -319,46 +350,48 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Ticketing-NextJS",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Desarrollo de una página web simple para reportar problemas computacionales a través de tickets.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Creado con Nextjs, TypeScript y MongoDB.",
+        "Despliegue del proyecto mediante Docker."
       ],
       "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "github": "https://github.com/ImaMos01/ticketing-nextjs"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "name": "TCG-Shop",
+      "isActive": false,
+      "description": "Desarrollo de un e-commerce simulando una tienda de venta de juegos de cartas coleccionables.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Creado en React.js, TailwindCSS, Node.js, ExpressJS y MySQL.",
+        "Diseño responsivo.",
+        "Autenticación de usuario y operaciones CRUD."
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://weatherapp.com",
+      "github": "https://github.com/ImaMos01/TCG-Shop"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "name": "Detección de Objetos",
+      "isActive": false,
+      "description": "Implementación de una página web para visualizar la detección de objetos.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Implementación del modelo YOLOv8 para la detección de objetos.",
+        "Creado en python, FastAPI y React.js."
       ],
       "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "github": "https://github.com/ImaMos01/Object-Detection"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Genetic-Stego-GAN",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Red generativa adversaria evolutiva para el procesamiento de imágenes estenográficas.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Utilizando Python, TensorFlow y PyGAD."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://ecommerce.com",
+      "github": "https://github.com/ImaMos01/Genetic-Stego-GAN"
     }
   ]
 }
